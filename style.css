@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+}
+
+.logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    width: 100%;
+    background-image: url("Képek/háttér.png");
+}
+
+
+.body h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.body p {
+    width: 95%;
+    margin: 1em auto;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.body h3 {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.body h1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+img {
+    width: 15%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+ul li {
+    font-size: 18px;
+    line-height: 25px;
+}
